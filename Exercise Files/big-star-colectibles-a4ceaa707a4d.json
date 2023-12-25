@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "big-star-colectibles",
+  "private_key_id": "a4ceaa707a4dcb034914157cf134f8c48d16a7ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBtWinmh3l7SQI\nkXTciBorJjB9Ba5ieN+oxYaPJHy1xnlbLMSooxwfdmVqiG1/l8IKIIUxceSbgpyN\n7BhvicBYgdDzu+U4rdipwx9YcEQGdgXuVjWbVzhoC6OiBLlMd3xoztEvbV40Q6VY\nUqrJFyD6un8q1anjVdnlQvL1H9synI2ErQ1ucIXnpwHJ+f0OshCkQF2iv6CkRXPM\nz29S/r04dHrC8Zw0UhPome2s28Zgzb7cRLiMwgKZ30ZUG0DR5XLimOVZQZCA30Bz\nnYy9MHTERjkgeqiHKScwTRzhS/6+Lc+pNce5QovM3UYt/N7UXRcbg7bMU9r0OYmp\n8AJf0Wt3AgMBAAECggEADKYjbNpX/HUlRrf02Re8Gbg3L1rJHd4FwNgRJtS7ngUV\nVJpSRy7LfdR13+SDvfKzdYTVHbrxsiPvxCa4G8RzfnQPqHLLD43umXtH1zcRghh/\n36Xaf0fNQ6IK79/+F5uv0Io8x6uNHL2UFPXk+BeeDDFUb4AfRVyMS3e5NL99SUsp\njlC51MgzA1eTDHtzD0++ZPuMR5gaB3piWybAKldBUOlLatWOlXZL7wAFvpC2rs/F\nIiMJM5SPXVmkENDN/rqmBUCubtif8wVmtWH7sINSd+RLzfUTSsDs1KJSiV2kQUXI\nHpDJ5cha0bJ5GaLp96c9u2DFHEUs2dyog/LprRyPsQKBgQD0rPnFAHHMxy5JHGLN\nZH7aG74h9xUKsKswLMKCI3nIbCwwrzl9kUvwYf1uKnfqY1lC467trKKp/kw3MrWl\nJu64BJS/6es78W4xxWthLAEhZ2OkkCjSpSXQ/PCJnjy+8SgUCTDbo1g9NlDhfZx3\nDbMrZQ6rICcxunwNTK8QzGNdZwKBgQDKrI2eD8bNu310JptPrtFlFvGaNSt9mZvF\nA44HeJgmK2PBzJg9kAnLRgIeJZyVde96RZA9J58nriXzy5e/pcfgOxWK8qsyg5OH\npknLd2bW++5LFuwJZe7nM3Ez9RLNIYQb+XSrFjqrTlum7uNBbWZUuEBvPZwg5LSU\ndyFSPmGncQKBgGcUQJ3IVCkreMqAVPem8PI+Ydm5WHoKd/RxxvhArdvMBsnz6EqI\nXe/FuJki9yYd+Mr/VQD4jAcGBWHz0SbkwglwlKJNkDbOvdfmDhkACvHhts7rlOc5\ngDcNeODhc0IWIwZd4OGHbXNMYMK+wp49fVA44PcjMp/2qrCHr/FpyirdAoGAFu2K\nX9U9Ek0hliA/9bW7Lop37pARSXY1LwaF7MZxv++sq2Hv3xcKZJqY5rwuiKH844I3\nHRP8Z0rGNFxV4HJquC029K8bOu2zpObk9kWdtrhtbsU7Ep0bd8BUECKra9Vc0qVX\n03sCTBrjN3FS+DXeG7t0XqFDplz5KMqJVHqGJaECgYBpcqQEWtsWaKfzj7PI652m\n71P6Gogb3zqClV+2AgA5L+eMeyi05ABHC69V8NkwQ9EUhXL6NXL/3AsJFioRLDLI\nUIepyx1iNN++PCZc+W0Sp+99NLFjT3trwRQh0BDGbQyjbxL+TSxmXNY1zadofJyx\nIZGFz8m0gLT6AV9ujoGyJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-282@big-star-colectibles.iam.gserviceaccount.com",
+  "client_id": "102070707249039696276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-282%40big-star-colectibles.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

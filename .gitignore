@@ -158,3 +158,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Exercise Files/00_02 Tech Setup.pdf
+Exercise Files/dagster_airbyte_assets.txt
+Exercise Files/dagster_assets.txt
+Exercise Files/database_config.txt
+Exercise Files/dbt_models.txt
+Exercise Files/dbt_project_init.txt
+Exercise Files/dbt_tests.txt
+Exercise Files/deploy_airbyte.txt
+Exercise Files/project_setup.txt
+Exercise Files/sol_add_schedule.txt
+Exercise Files/sol_add_tests.txt
+Exercise Files/sol_freshness.txt
+Exercise Files/sources.txt
